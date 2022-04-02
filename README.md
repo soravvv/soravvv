@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sorav Malviya </h1>
-<h3 align="center">A passionate Full Stack Web Developer from India.</h3>
+<p align="center">I'm a passionate Full Stack Web Developer from India. I'm enthusiastic about learning new technologies and solving problems.</p>
 
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on open source projects 
