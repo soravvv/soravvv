@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sorav Malviya </h1>
 <p align="center">I'm a passionate Full Stack Web Developer from India. I'm enthusiastic about learning new technologies and solving problems.</p>
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m a full stack developer. My tech stack are MERN and MEAN.
 - 👯 I’m looking to collaborate on open source projects 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://soravmalviya-portfolio.netlify.app/#)
+- 👨‍💻 Few of my projects are available at [My Portfolio](https://soravmalviya-portfolio.netlify.app/#)
 - 💬 Ask me about anything, I am happy to help
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soravvv&label=Profile%20views&color=0e75b6&style=flat" alt="soravvv" /> </p>
